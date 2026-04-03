@@ -1,0 +1,11 @@
+company,domain,industry,tier
+Snowflake,snowflake.com,Cloud Data,T1
+Okta,okta.com,Identity Security,T1
+Databricks,databricks.com,Data & AI,T1
+Figma,figma.com,Design Tools,T1
+Notion,notion.so,Productivity,T2
+Canva,canva.com,Design Tools,T2
+Airtable,airtable.com,No-Code,T2
+Miro,miro.com,Collaboration,T2
+Loom,loom.com,Video Comms,T3
+Calendly,calendly.com,Scheduling,T3
